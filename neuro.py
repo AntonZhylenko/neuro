@@ -1,4 +1,3 @@
-import numpy
 import scipy.special
 import matplotlib.pyplot
 import imageio
